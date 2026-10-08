@@ -5,7 +5,7 @@ import fs from 'fs';
 // BOT TOKEN
 // ========================================
 
-const TOKEN = '8703531186:AAFBHemmF4ftNKpXWZOeWinCeNOTTw_n-J0';
+const TOKEN = '8703531186:AAGSe_IHaBCZaxuBHJOQIaEoamd_grW6wsQ';
 
 const bot = new Telegraf(TOKEN);
 
